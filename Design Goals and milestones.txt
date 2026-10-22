@@ -10,7 +10,7 @@ Design Goals:
     1.2 SD card for local data storage
     1.3 Acquire data from sensors
   2. Hardware:
-    2.1 Castom Esp32 board 
+    2.1 Esp32 board 
     2.2 Interface for thermocouple temperature sensors 
     2.3 Oled display 
     2.4 Interfaces for other sensors 
