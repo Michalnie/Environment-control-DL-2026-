@@ -1,7 +1,11 @@
-MCU : Esp32s3 on module "ESP32-S3-MINI-1-N8"
+MCU : ESP32-D0WD  on module "ESP32-WROOM-32D"
 Power : usb-c connector
 Sensors :
   -temperature
-  -humidity
-  -light 
+  -I2C
+Add:
+  -OLED display
+  -3 buttons
+  -I2C port
+  -add port
 
