@@ -9,5 +9,5 @@ Add:
   -I2C port
   -add port
 
-  ![Alt text](images/ESP32_EC_DL.png)   
+  ![Alt text](hardware/ESP32_EC_DL.png)   
 
