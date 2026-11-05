@@ -1,10 +1,10 @@
-Design Goals
+# Design Goals
 
 The main goal of the project is to design and develop an ESP32-based data acquisition and control board capable of 
 monitoring temperature, interfacing with external devices, storing measurement data locally,
 and providing remote access through an OPC UA server.
 
-Design Goals:
+# Design Goals:
   1. firmware:
     1.1 Open OPC server on esp32
     1.2 SD card for local data storage
@@ -15,7 +15,7 @@ Design Goals:
     2.3 Oled display 
     2.4 Interfaces for other sensors 
 
-Project Milestones:
+# Project Milestones:
 1. Schematic Design and Component Selection 
 2. PCB Design and Manufacturing  (! deadline: 15.11.2026 !)
 3. Hardware  Verification
