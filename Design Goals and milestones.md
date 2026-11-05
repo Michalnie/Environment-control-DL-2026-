@@ -6,21 +6,21 @@ and providing remote access through an OPC UA server.
 
 # Design Goals:
   1. firmware:
-    1.1 Open OPC server on esp32
-    1.2 SD card for local data storage
-    1.3 Acquire data from sensors
+    1.1. Open OPC server on esp32
+    1.2. SD card for local data storage
+    1.3. Acquire data from sensors
   2. Hardware:
-    2.1 Esp32 board 
-    2.2 Interface for thermocouple temperature sensors 
-    2.3 Oled display 
-    2.4 Interfaces for other sensors 
+    2.1. Esp32 board 
+    2.2. Interface for thermocouple temperature sensors 
+    2.3. Oled display 
+    2.4. Interfaces for other sensors 
 
 # Project Milestones:
-1. Schematic Design and Component Selection 
-2. PCB Design and Manufacturing  (! deadline: 15.11.2026 !)
-3. Hardware  Verification
-4. OPC UA Server Implementation, test of connectivity
-5. Integration and Testing of sensors 
-6. Final Integration of SD loger and oled display 
+- [] Schematic Design and Component Selection 
+- [] PCB Design and Manufacturing  (! deadline: 15.11.2026 !)
+- [] Hardware  Verification
+- [] OPC UA Server Implementation, test of connectivity
+- [] Integration and Testing of sensors 
+- [] Final Integration of SD loger and oled display 
 
   
