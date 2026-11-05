@@ -1,7 +1,8 @@
 MCU : ESP32-D0WD  on module "ESP32-WROOM-32D"
 Power : usb-c connector
 Sensors :
-  -temperature
+  -temperature (termocouple) MAX6675ISA ic
+  -ADC
   -I2C
 Add:
   -OLED display
@@ -9,6 +10,7 @@ Add:
   -I2C port
   -add port
 
- <img width="960" height="781" alt="ESP32_EC_DL" src="https://github.com/user-attachments/assets/b92cc785-0bd2-41cc-b456-e261d8d0bc51" />
-  
+ 
+  <img width="1097" height="929" alt="ESP32_EC_DL_v1 1" src="https://github.com/user-attachments/assets/f4f9f4cb-87f2-4cc6-8959-ca360ded05f2" />
+
 
