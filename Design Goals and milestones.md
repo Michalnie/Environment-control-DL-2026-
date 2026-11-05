@@ -16,7 +16,7 @@ and providing remote access through an OPC UA server.
     2.4. Interfaces for other sensors 
 
 # Project Milestones:
-- [ ] Schematic Design and Component Selection 
+- [x] Schematic Design and Component Selection 
 - [ ] PCB Design and Manufacturing  (! deadline: 15.11.2026 !)
 - [ ] Hardware  Verification
 - [ ] OPC UA Server Implementation, test of connectivity
